@@ -2,6 +2,7 @@ from dateutil import rrule
 from datetime import datetime
 import time
 # 第一个github提交
+# github调试
 # pyinstaller -F C:\Users\TX\Desktop\code\日常小工具\计算时间.py
 # 开始年月日
 startYear = int(input('请输入要查询的年份：'))
